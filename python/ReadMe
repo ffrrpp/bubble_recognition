@@ -1,0 +1,5 @@
+skimage pakage is required for running the python code.
+installation: http://scikit-image.org/
+
+For run preprocessing.py
+type : 'python preprocessing.py Bubble_Filename  Background_Filename'
